@@ -20,12 +20,6 @@ please open an issue first to discuss what you would like to change.
 
 ```
 
-### Few Screenshots
-
-![Homepage](/screenshots/1.png "Homepage")
-![Coinpage](/screenshots/2.png "Coinpage")
-![Watchlist](/screenshots/3.png "Watchlist")
-![Login](/screenshots/4.png "Login")
 
 ## Features
 
@@ -45,16 +39,9 @@ ReactJS, ChartJS, Material-UI, Firebase as a Backend Service, Firestore Database
 
 ## Hosted/Deployed
 
-https://crypto-world-ssb.netlify.app/
+https://okyash007-cryptoapp.netlify.app/
 
 
-### Sample
-
-```Sample User Login```
-
-| Email | Password  |
-| -------- | --------- |
-| elon@test.com | musktest |
 
 
 ## Install Dependencies
